@@ -25,4 +25,4 @@ Tools used in this project:
 
 
 ## Screenshots
-![Video](/screenshots/record.webm)
+![Gif](/screenshots/record.gif)
